@@ -26,7 +26,8 @@ Before the automated system has been introduced, the orders and payments were ma
  
  ## SWOT ANALYSIS -
  
- ![Untitled Workspace (1) (1)](https://user-images.githubusercontent.com/86190226/124643906-4567b680-deaf-11eb-97b0-b8f9c7e42bac.jpg)
+![swot analysis central perk (1) (1)](https://user-images.githubusercontent.com/86190226/124647242-56b2c200-deb3-11eb-9cff-3d7b3de6e91c.jpg)
+
 
  
  
