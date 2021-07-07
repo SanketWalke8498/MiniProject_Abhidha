@@ -43,3 +43,32 @@ Before the automated system has been introduced, the orders and payments were ma
    1. from the given option choose the order
    1. Your bill will be generated automatically
 
+
+## DETAIL REQUIREMENTS-
+
+### *High Level Requirements* 
+-> Providing range of Menu available.
+
+-> As the user orders, the available stocks gets reduced.
+
+-> Exit from Interface.
+
+-> Continue to interface for continue ordering.
+
+-> Adaptive system.
+
+-> Cancellation of order.
+
+### *Low Level Requirements* -
+
+-> User Details
+
+-> View Menu / Direct Order
+
+-> View bill
+
+-> Order more
+
+-> Cancel Order
+
+-> Exit
