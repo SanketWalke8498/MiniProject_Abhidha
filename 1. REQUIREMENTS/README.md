@@ -44,9 +44,9 @@ Before the automated system has been introduced, the orders and payments were ma
 ## How
 1.The option displays the menu
 
-1.From the given option choose the order
+2.From the given option choose the order
 
-1.Your bill will be generated automatically
+3.Your bill will be generated automatically
 
 ## DETAIL REQUIREMENTS
 
