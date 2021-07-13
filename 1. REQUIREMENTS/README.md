@@ -1,29 +1,29 @@
 # *CENTRAL PERK* ~ *your food ordering partner*
 
-## INTRODUCTION:
+## INTRODUCTION
 
 Central Perk is a Food Order Management System which is based on the concept of ordering food. There’s no login system available for this system, 
 the user can freely use its feature by simply providing name and email id. 
 This application has customer section from where a user can order food. This mini project contains limited features, but the essential one.
 
-## RESEARCH:
+## RESEARCH
 
 A computerized restaurant system is “an integrated IT system that supervises, manages and facilitates the planning operations in restaurant”. 
 Before the automated system has been introduced, the orders and payments were managed manually using register books etc.
 
-## FEATURES:
+## FEATURES
 
  1.Ordering food is easy with simple steps
  1.System contains simple interface 
  
- ## DEFINING YOUR SYSTEM:
+ ## DEFINING YOUR SYSTEM
  
  This project has a low level and high-level overview. It then describes the specific aims and objectives of the project. 
  Finally, it analyses the feasibility of the project and provides with a feasibility report of the system. Talking about the features of this Simple system, the user can simply  order foods by selecting food items, entering a customer name, quantity. 
  The system does not create an external file to store the user’s data permanently. 
  This system is developed using C Programming Language and different variables, strings have been used for the development of it.
  
- ## SWOT ANALYSIS:
+ ## SWOT ANALYSIS
  
 ![cp](https://user-images.githubusercontent.com/86190226/125284920-aa9c2b80-e337-11eb-9e3c-1507003920b4.jpg)
 
@@ -33,27 +33,27 @@ Before the automated system has been introduced, the orders and payments were ma
  
  
  
- ## 4W's & 1H:
+ ## 4W's & 1H
  
-## When:
+## When
    Can be ordered anytime
    
-## What:
+## What
    Virtual medium to order food
 
-## Where:
+## Where
    Can be ordered from anywhere pc or mobile phone
 
-## Who:
+## Who
    People of all age groups can use it
 
-## How:
-   1. The option displays the menu
-   1. From the given option choose the order
-   1. Your bill will be generated automatically
+## How
+1.The option displays the menu
+1.From the given option choose the order
+1.Your bill will be generated automatically
 
 
-## DETAIL REQUIREMENTS-
+## DETAIL REQUIREMENTS
 
 ## *High Level Requirements* 
 
@@ -80,7 +80,7 @@ LR01| View Menu / Direct Order    | IMPLEMENTED
 LR02| View bill | IMPLEMENTED
 LR03| Order more | IMPLEMENTED
 LR04| Cancel Order | IMPLEMENTED
-LR05| EXIT | IMPLEMENTED
+LR05| EXIT         | IMPLEMENTED
 
 
 
