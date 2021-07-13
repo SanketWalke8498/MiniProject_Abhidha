@@ -45,7 +45,6 @@ This system is developed using C Programming Language and different variables, s
 3.Your bill will be generated automatically
 
 ## DETAIL REQUIREMENTS
-
 ## *High Level Requirements* 
 ID  | DESCRIPTION                           | STATUS
 ----|---------------------------------------|-------
@@ -55,7 +54,6 @@ HR03| Exit from Interface | IMPLEMENTED
 HR04| Continue to interface for continue ordering | IMPLEMENTED
 HR05| Adaptive system | IMPLEMENTED
 HR06| Cancellation of order | IMPLEMENTED
-
 ## *Low Level Requirements* 
 ID  | DESCRIPTION                           | STATUS
 ----|---------------------------------------|-------
