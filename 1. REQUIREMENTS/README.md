@@ -62,13 +62,3 @@ LR02| View bill | IMPLEMENTED
 LR03| Order more | IMPLEMENTED
 LR04| Cancel Order | IMPLEMENTED
 LR05| EXIT| IMPLEMENTED
-
-
-
-
-
-
-
-
-
-
