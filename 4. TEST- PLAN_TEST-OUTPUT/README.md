@@ -6,7 +6,6 @@
 |  H_02       | Take more order  | Valid | Matched | Passed | Requirement based    |
 |  H_03       | Take Cancel Order  | Valid | Matched | Passed | Requirement based    |
 |  H_04       | Check if the quit option works well  | Passes |  Requirement based |
-
 ## Table no: Low level test plan
 | **Test ID** | **Description**                                              | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|-------------|----------------|------------------|
@@ -14,5 +13,3 @@
 |  L_02       |Generating Bill | Total Bill display |Matched | Requirement based   |
 |  L_03    |  Asking for Direct order | Order gets displayed | Matched | Requirement based   |
 |  L_04    |  Asking to Display menu | Menu gets displayed | Matched | Requirement based   |
-
-
