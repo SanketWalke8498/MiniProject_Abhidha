@@ -1,7 +1,7 @@
 # MiniProject_Abhidha
-## Central Perk ~ Food ordering 
+## *Central Perk ~ Food ordering*
 ![giphy](https://user-images.githubusercontent.com/86190226/125441885-d970875d-3ec8-4274-b953-45a454cd5f85.gif)
-
+### FOLDER STRUCTURE
 | Folder  | Description  |
 |--- |--- |
 | 1_Requirements | Details about Project |
