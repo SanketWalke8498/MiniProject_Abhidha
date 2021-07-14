@@ -41,7 +41,7 @@
 
 |Build     |    Cppcheck | Git- Inspector| Static-Code |
 |--------- |-------------|-------------- |-------------|
-| | | [![Contribution Check - Git Inspector](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/Git_Inspector.yml) | |
+| |[![cppcheck-action-test](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/cpp_check.yml) | [![Contribution Check - Git Inspector](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/Git_Inspector.yml) | |
 
 
 |CODE QUALITY              |                                                              
