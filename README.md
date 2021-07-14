@@ -39,9 +39,9 @@
 
 ## BADGES 
 
-|Build     |    Cppcheck | Git- Inspector| Static-Code |
-|--------- |-------------|-------------- |-------------|
-|[![CI](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/c-cpp1.yml) |[![cppcheck-action-test](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/cpp_check.yml) | [![Contribution Check - Git Inspector](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/Git_Inspector.yml) | |
+|Build     |    Cppcheck | Git- Inspector|
+|--------- |-------------|-------------- |
+|[![CI](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/c-cpp1.yml) |[![cppcheck-action-test](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/cpp_check.yml) | [![Contribution Check - Git Inspector](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/Git_Inspector.yml) | 
 
 
 |CODE QUALITY              |                                                              
