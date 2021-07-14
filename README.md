@@ -10,15 +10,11 @@
 | 4_Test Plan and Output | Required test plans and outputs |
 | 5_Report | Generated Report |
 | 6_ImagesandVideos | Images and Videos of the Project Implementation |
-
 ## Contribution List
-
 | SF ID  | Name          | 
 |---     |---            |
 | 313628 | AbhidhaChoudhari | 
-
 ## Features Table 
-
 |Sr. No. | Features |
 |--- |--- |
 |1 | Simple Interface |
@@ -26,24 +22,17 @@
 |3 | User an cancel Order |
 |4 | User can Order more |
 |5 | User gets the Bill |
-
 ## Challenges faced and How it was Overcome
-
 | Sr. No. | Challenges | Overcome |
 |--- |--- |--- |
 |1 | Making of UML diagrams | By Studing about the basic concepts of making UML diagram |
 |2 | Writing all the requirements, Features, Swot analysis, 4W & 1H and High/Low level requirements | By doing research |
 |3 | Creating github Workflows | By Code Inspection |
 |4 | Pushing files and folders to repository by Git bash | By removing all the previous pushed files and folders |
-
-
 ## BADGES 
-
 |Build     |    Cppcheck | Git- Inspector|
 |--------- |-------------|-------------- |
 |[![CI](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/c-cpp1.yml) |[![cppcheck-action-test](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/cpp_check.yml) | [![Contribution Check - Git Inspector](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/AbhidhaChoudhari/MiniProject_Abhidha/actions/workflows/Git_Inspector.yml) | 
-
-
 |CODE QUALITY              |                                                              
 |-----------------------------------------------------------------------------------------|
 |Code Inspector ![Code Quality Score](https://www.code-inspector.com/project/25049/score/svg)     |             
